@@ -1,2 +1,2 @@
 # MCB525
-course materials developed for MCB525 in Fall 2016
+This repository contains course materials developed for MCB525 (Techniques in Molecular and Cellular Biology) taught at Oregon State University in Fall 2016
