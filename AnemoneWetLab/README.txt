@@ -1,0 +1,1 @@
+For the wet lab portion of this project, students created 2bRAD genomic libraries following the protocol developed by the Meyer lab at OSU (http://people.oregonstate.edu/~meyere/docs/2bRAD_25Aug2016.pdf)
